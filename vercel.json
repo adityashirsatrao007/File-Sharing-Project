@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "src/app/api/**/*.ts": {
+      "runtime": "nodejs18.x"
+    }
+  },
+  "env": {
+    "NEXT_PUBLIC_INSFORGE_URL": "https://3929n3sz.us-east.insforge.app",
+    "INSFORGE_API_KEY": "ik_88beee058e2960bcc62c828c851f7557"
+  }
+}
